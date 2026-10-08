@@ -1,0 +1,16 @@
+# simulation
+*.vvp
+*.vcd
+*.saif
+sim/*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Vivado
+vivado/out/
+*.jou
+*.log
+*.str
+.Xil/

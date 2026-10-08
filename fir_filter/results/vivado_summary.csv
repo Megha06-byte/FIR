@@ -1,0 +1,4 @@
+design,LUT,FF,T_fmax_ns,WNS_ns,Fmax_MHz,P_dynamic_mW@100MHz,P_static_mW,power_confidence,netlist_sim
+fir_direct,38,482,3.0,-38.789,23.9,130.00,80.0,High,PASS
+fir_folded,242,515,3.0,-21.948,40.1,73.00,80.0,High,PASS
+fir_pipe,239,549,3.0,-4.666,130.4,36.00,79.0,High,PASS

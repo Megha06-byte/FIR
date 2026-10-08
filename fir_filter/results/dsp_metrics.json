@@ -1,0 +1,12 @@
+{
+ "taps": 31,
+ "fs": 48000,
+ "fc": 6000,
+ "snr_in_db": 2.8279719135212558,
+ "snr_out_float_db": 20.660350889815824,
+ "snr_out_fixed_db": 20.660447744000265,
+ "quant_snr_db": 87.17631968337531,
+ "stopband_atten_float_db": 50.26043377435269,
+ "stopband_atten_fixed_db": 50.270029283124494,
+ "unique_coeffs": 16
+}
